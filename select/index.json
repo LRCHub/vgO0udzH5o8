@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "DO NOT DISTURB",
+  "base_artist": "秋山黄色",
+  "createdAt": "2026-03-10T15:58:46.770539Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Do Not Disturb",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/01_Do_Not_Disturb_Drake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Do Not Disturb (feat. Kamaiyah, G-Eazy)",
+      "artist": "YG feat. Kamaiyah & G-Eazy",
+      "has_synced": true,
+      "path": "select/02_Do_Not_Disturb_(feat._Kamaiyah,_G-Eazy)_YG_feat._Kamaiyah_&_G-Eazy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Do Not Disturb (feat. Kamaiyah & G-Eazy)",
+      "artist": "YG",
+      "has_synced": true,
+      "path": "select/03_Do_Not_Disturb_(feat._Kamaiyah_&_G-Eazy)_YG.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Do Not Disturb",
+      "artist": "Bananarama",
+      "has_synced": true,
+      "path": "select/04_Do_Not_Disturb_Bananarama.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Do Not Disturb",
+      "artist": "Bananarama",
+      "has_synced": true,
+      "path": "select/05_Do_Not_Disturb_Bananarama.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Do Not Disturb",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/06_Do_Not_Disturb_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Do Not Disturb",
+      "artist": "Halestorm",
+      "has_synced": true,
+      "path": "select/07_Do_Not_Disturb_Halestorm.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Do Not Disturb",
+      "artist": "Elvis Presley",
+      "has_synced": false,
+      "path": "select/08_Do_Not_Disturb_Elvis_Presley.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Do Not Disturb",
+      "artist": "Elvis Presley Cd22 Of 50",
+      "has_synced": true,
+      "path": "select/09_Do_Not_Disturb_Elvis_Presley_Cd22_Of_50.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Do Not Disturb",
+      "artist": "Bananarama",
+      "has_synced": true,
+      "path": "select/10_Do_Not_Disturb_Bananarama.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Do Not Disturb",
+      "artist": "Sage the Gemini",
+      "has_synced": false,
+      "path": "select/11_Do_Not_Disturb_Sage_the_Gemini.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Do Not Disturb (Stripped)",
+      "artist": "Halestorm",
+      "has_synced": true,
+      "path": "select/12_Do_Not_Disturb_(Stripped)_Halestorm.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Do Not Disturb",
+      "artist": "Freak Kitchen",
+      "has_synced": false,
+      "path": "select/13_Do_Not_Disturb_Freak_Kitchen.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Do Not Disturb",
+      "artist": "Eric North",
+      "has_synced": false,
+      "path": "select/14_Do_Not_Disturb_Eric_North.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "DO_NOT_DISTURB",
+      "artist": "ERIC NORTH",
+      "has_synced": false,
+      "path": "select/15_DO_NOT_DISTURB_ERIC_NORTH.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DO NOT DISTURB",
+      "artist": "秋山黄色",
+      "has_synced": false,
+      "path": "select/pl_01_DO_NOT_DISTURB_秋山黄色.txt"
+    }
+  ]
+}
